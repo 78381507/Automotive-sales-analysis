@@ -1,0 +1,72 @@
+# Automotive Sales Analysis - .gitignore
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Credentials and API keys
+credentials.json
+config.ini
+.env
+secrets/
+
+# Google Sheets cache
+.sheets_cache/
+~$*.xlsx
+~$*.xls
+
+# Looker Studio temp files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Output files
+output/
+exports/
+*.pdf
+!dashboard/*.pdf
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
