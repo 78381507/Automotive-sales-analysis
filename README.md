@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project examining automotive sales performance, dealer efficiency, product line profitability, and customer sentiment across a major automotive sales network.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+[Dashboard Preview]()
 
 ## 📊 Project Overview
 
