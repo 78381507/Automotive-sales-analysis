@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project examining automotive sales performance, dealer efficiency, product line profitability, and customer sentiment across a major automotive sales network.
 
-[Dashboard Preview]()
+[Dashboard Preview](Automotive_Industry_V7_End.pdf)
 
 ## 📊 Project Overview
 
@@ -138,9 +138,9 @@ The interactive dashboard includes:
 **François**  
 Aspiring Data Analyst | Data Engineering Enthusiast
 
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- LinkedIn: []
+- GitHub: []
+- Email: [mailto:tilkinanalytics@gmail.com]
 
 ---
 
