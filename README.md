@@ -138,18 +138,12 @@ The interactive dashboard includes:
 **François**  
 Aspiring Data Analyst | Data Engineering Enthusiast
 
-- LinkedIn: []
-- GitHub: []
+- LinkedIn: [www.linkedin.com/in/françois-tilkin-1667b138a/]
+- GitHub: [https://github.com/78381507]
 - Email: [mailto:tilkinanalytics@gmail.com]
-
----
 
 ## 📄 License
 
 This project is available for educational and portfolio purposes.
 
-## 🙏 Acknowledgments
-
-- Dataset source: Kaggle
-- Visualization platform: Looker Studio
-- Data processing: Google Sheets
+---
